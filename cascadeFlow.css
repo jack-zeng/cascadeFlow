@@ -1,0 +1,6 @@
+*{padding:0; margin:0;}
+ul li{list-style: none}
+.cascadeFlowList{margin:0 auto;margin-top:15px; position: relative;}
+.cascadeFlowList li{width:195px; padding:11px; border:1px solid #f12; background-color:#ccc;position: absolute; margin: 0 0 15px 15px;}
+.cascadeFlowList li img{width:100%; display: block; }
+.cascadeFlowList li p{text-align: center; margin-top:10px; font-size:14px;}
